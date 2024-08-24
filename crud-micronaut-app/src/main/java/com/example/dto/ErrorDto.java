@@ -9,6 +9,7 @@ import java.time.LocalDateTime;
 @Builder
 public class ErrorDto {
 
+
     private String message;
     private LocalDateTime time;
 }
